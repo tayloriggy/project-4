@@ -1,0 +1,17 @@
+.navbar-brand img {
+    margin-left: 300%;
+}
+
+#logo {
+    margin-left: 10%;
+}
+
+#title {
+    font-size: 80px;
+}
+
+#first {
+    display: inline;
+    background-color: black;
+    color: white;
+}
