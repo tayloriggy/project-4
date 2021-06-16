@@ -10,8 +10,44 @@
     font-size: 80px;
 }
 
+.first {
+    margin-top: 15%;
+}
+
 #first {
     display: inline;
     background-color: black;
     color: white;
+}
+
+
+body { 
+    background-image: url(http://www.hdwallpaperslife.com/wp-content/uploads/2017/12/foggy_morning_mountains-wide.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+
+#second {
+    color: white;
+}
+
+.second {
+    background-color: yellowgreen;
+    margin-top: 20%;
+    padding: 60px;
+}
+
+#greenp {
+    color: white;
+    font-size: 20px;
+}
+
+#microphone {
+    width: 500px;
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 15%;
+    margin-top: 80px;
 }
