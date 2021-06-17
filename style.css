@@ -21,7 +21,7 @@
 }
 
 
-body { 
+.main { 
     background-image: url(http://www.hdwallpaperslife.com/wp-content/uploads/2017/12/foggy_morning_mountains-wide.jpg);
     height: 100vh;
     background-position: center;
@@ -48,6 +48,75 @@ body {
     width: 500px;
     height: 350px;
     border-radius: 50%;
-    margin-left: 15%;
-    margin-top: 80px;
+    margin-left: 20%;
+    margin-top: 7%;
+    padding-bottom: 20px;
 }
+
+.mic {
+    margin-top: 4%;
+}
+
+
+.black {
+    background-color: black;
+}
+
+.superior {
+    margin-top: 10%;
+    margin-left: 10%;
+    color: white;
+    
+}
+
+
+#jungle {
+    width: 500px;
+    height: 350px;
+    border-radius: 50%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+.five {
+    height: 190px;
+}
+
+.bg-unleash {
+    background-image: url(https://www.cashmaine.org/wp-content/uploads/2015/12/iStock_000070013897_Double-1200x600.jpg);
+    height: 100%;
+    background-position: center;
+}
+
+#unleash {
+    color: white;
+    margin-top: 10%;
+}
+
+.bg-syng {
+    background-image: url(https://c.stocksy.com/a/inx500/z9/1421518.jpg?1559862862);
+    height: 100%;
+    background-position: center;
+}
+
+#synergize {
+    color: white;
+    margin-top: 10%;
+}
+
+.bg-pro {
+    background-image: url(http://tpholic.com/xe/files/attach/images/76/734/517/001/Pencil_designOne_by_scrack26.jpg);
+    height: 100%;
+    background-position: center;
+}
+
+#procrast {
+    color: white;
+    margin-top: 10%;
+}
+
+
+
+
+
+
