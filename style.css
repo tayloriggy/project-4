@@ -60,12 +60,13 @@
 
 .black {
     background-color: black;
+    padding-bottom: 20px;
 }
 
 .superior {
     margin-top: 10%;
-    margin-left: 10%;
     color: white;
+    padding-left: 200px;
     
 }
 
@@ -74,8 +75,8 @@
     width: 500px;
     height: 350px;
     border-radius: 50%;
-    margin-right: 10%;
     margin-top: 10%;
+    padding-bottom: 10px;
 }
 
 .five {
@@ -114,6 +115,34 @@
     color: white;
     margin-top: 10%;
 }
+
+.six {
+    height: 300px;
+}
+
+.sanity {
+    padding-top: 50px;
+}
+
+
+.seven {
+    background-color: yellowgreen;
+    height: 370px;
+    color: white;
+    padding-top: 80px;
+}
+
+.eight {
+    height: 150px;
+    padding-top: 70px;
+}
+
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+
+
+
+
 
 
 
