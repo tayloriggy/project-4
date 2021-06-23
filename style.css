@@ -39,6 +39,11 @@
     padding: 60px;
 }
 
+#apple {
+    height: 10px;
+    width: 10px;
+}
+
 #greenp {
     color: white;
     font-size: 20px;
@@ -87,6 +92,8 @@
     background-image: url(https://www.cashmaine.org/wp-content/uploads/2015/12/iStock_000070013897_Double-1200x600.jpg);
     height: 100%;
     background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #unleash {
@@ -98,6 +105,8 @@
     background-image: url(https://c.stocksy.com/a/inx500/z9/1421518.jpg?1559862862);
     height: 100%;
     background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #synergize {
@@ -109,6 +118,8 @@
     background-image: url(http://tpholic.com/xe/files/attach/images/76/734/517/001/Pencil_designOne_by_scrack26.jpg);
     height: 100%;
     background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 #procrast {
@@ -137,7 +148,77 @@
     padding-top: 70px;
 }
 
+@media only screen and (max-width: 600px) {
+    /* For phones, 600px and less */
+    #unleash {
+        font-size: 17px;
+    }
 
+    #synergize {
+        font-size: 17px;
+    }
+
+    #procrast {
+        font-size: 17px;
+    }
+
+    #title {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+
+    #best {
+        font-size: 16px;
+    }
+
+    .tres {
+        display: block;
+    }
+
+    #holist {
+        font-size: 14px;
+    }
+
+    #super {
+        font-size: 16px;
+        display: inline-block;
+    }
+
+    #holistic {
+        font-size: 14px;
+    }
+
+    #jungle {
+    width: 175px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 80px;
+    padding-bottom: 10px;
+    }
+    
+
+    .second {
+        padding: 80px;
+    }
+
+    .superior {
+        margin-top: 10%;
+        padding-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #microphone {
+        margin-left: 0%;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 2000px) {
+    #microphone {
+        margin-left: 0%;
+    }
+}
+    
 
 
 
