@@ -92,7 +92,7 @@
     background-image: url(https://www.cashmaine.org/wp-content/uploads/2015/12/iStock_000070013897_Double-1200x600.jpg);
     height: 100%;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
 }
 
@@ -105,7 +105,7 @@
     background-image: url(https://c.stocksy.com/a/inx500/z9/1421518.jpg?1559862862);
     height: 100%;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
 }
 
@@ -118,7 +118,7 @@
     background-image: url(http://tpholic.com/xe/files/attach/images/76/734/517/001/Pencil_designOne_by_scrack26.jpg);
     height: 100%;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
 }
 
